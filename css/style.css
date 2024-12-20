@@ -134,6 +134,14 @@ figure {
 }
 
 
+.RQs{
+    padding-left: 30px;
+}
+
+.RQs li{
+    padding-bottom:10px;
+}
+
 /* --------- 1.1 Input Elements ---------- */
 
 input, textarea {
